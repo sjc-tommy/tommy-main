@@ -1,0 +1,6 @@
+{
+  "name": "Petora - Smart Pet Care",
+  "description": "Premium Smart Pet Care B2B Wholesale & DTC Export Platform with AI Tech, Vet-Approved Safety, and App Ecosystem",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
